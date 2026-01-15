@@ -1,0 +1,6 @@
+yfinance
+pandas
+fastmcp
+requests
+python-dotenv
+json
